@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allkira
+- 👋 Hi, I’m @albertkiragu
 - 👀 I’m interested in softare engineering 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding projects
